@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties declaration in defence of the true Protestant religion as it was maintained by his royall father King James of blessed memorie : according to the true copie written with His Majesties owne hand, and by his speciall command appointed to be printed.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18955</idno><idno type="EEBO-CITATION">12219537</idno>
+  <idno type="VID">197322</idno>
+  <idno type="EEBO-PROQUEST">2240951313</idno>
+  
+            <idno type="STC">Wing C2209</idno>
+            <idno type="OCLC">12219537</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197322)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 245:E106, no 11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties declaration in defence of the true Protestant religion as it was maintained by his royall father King James of blessed memorie : according to the true copie written with His Majesties owne hand, and by his speciall command appointed to be printed.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 16, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published: Oxford : Leonard Lichfield, 1643?</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197322:1"/>
+            <p>HIS MAIESTIES DECLARATION IN DEFENCE OF The true Protestant Religion: AS It was maintained by his Royall Father King <hi>James</hi> of blessed memorie.</p>
+            <p>According To the true Copie written with his Ma<g ref="char:EOLhyphen"/>jesties owne hand, and by his speciall Command appointed to be printed.</p>
+            <figure>
+               <figDesc>seal of Charles I</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>First printed at <hi>Oxford</hi> by <hi>Leonard Lichfield,</hi> and since re-printed at <hi>London. June</hi> 16. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197322:2"/>
+            <head>His Majesties Declaration, in defence of the true Protestant Religion, as it was main<g ref="char:EOLhyphen"/>tained by his Royall Father, King <hi>Iames</hi> of blessed memory.</head>
+            <p>I Am such a Catholique-Christian, as believeth the three Creeds; That of the <hi>Apostles,</hi> that of the <hi>Councell</hi> of <hi>Nice;</hi> and that of <hi>Athanasius:</hi> The two latter, being <hi>Paraphrases</hi> to the former.</p>
+            <p>And I believe them in that sense, as the ancient Fathers and Councels that made them did understand them. To which three Creeds, all the Ministers of <hi>England</hi> do subscribe at their ordination.</p>
+            <p>And I also acknowledge for Orthodoxall those, other formes of Creeds, that either were devised by Councels, or particular Fathers, against such particular heresies as most reigned in their times.</p>
+            <p>I reverence and admit the foure first generall Councels as Catho<g ref="char:EOLhyphen"/>like and Orthodox: and the said foure generall Councels are ac<g ref="char:EOLhyphen"/>knowledged by Our Acts of Parliament, and received for Orthodox by Our Church.</p>
+            <p>As for the Fathers, I reverence them as much, and more then the Jesuits do, and as much as themselves ever craved: for, what ever the Fathers for the first five hundred yeeres did with an unanimous consent agree upon to be believed, as a necessary point of salvation, I either will believe it also, or at least will be humbly silent; not ta<g ref="char:EOLhyphen"/>king upon mee to condemne the same; but for every private fathers opinion, it binds not my conscience more then <hi>Bellarmines;</hi> every one of the fathers us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally contradicting others.</p>
+            <p>I will therefore in that case follow Saint <hi>Austines</hi> rule, judging of their opinions as I find them agreeing with the Scriptures; what I find agreeable thereunto, I will gladly imbrace; what is otherwise, I will (with their reverence) reject.</p>
+            <p>As for the Scriptures, no man doubteth I believe them; but ever for the <hi>Apocrypha,</hi> I hold them in the same account that the ancients did. They are still printed, and bound with our Bibles, and publikely read in Our Churches. I reverence them as the Writing of holy and good men: but since they are not found in the Canon, We account
+<pb facs="tcp:197322:2"/> them to be <hi>secundae lectionis:</hi> or, <hi>ordines,</hi> which is <hi>Bellarmines</hi> owne distinction) and therefore not sufficient whereupon alone to ground any article of faith, except it be confirmed by some other place of Canonicall Scripture; concluding this point with <hi>Ruffinus</hi> (who is no novellist I hope) That the <hi>Apocryphall</hi> books were by the Fathers permitted to be read; not for confirmation of Doctrine, but only for instruction of the people.</p>
+            <p>As for the Saints departed, I honour their memory; and in ho<g ref="char:EOLhyphen"/>nour of them, do we in our Church observe the dayes of so many of them, as the Scripture doth canonize for Saints: but I am loth to believe all the tales of the legended Saints.</p>
+            <p>And first for the blessed Virgin <hi>Mary,</hi> I yeeld her that which the Angel <hi>Gabriel</hi> pronounced of her, and which in her Canticle shee prophesied of her selfe: that is, that she is blessed amongst women; and that all generations shall call her blessed.</p>
+            <p>I reverence her as the mother of Christ, of whom our Saviour tooke his flesh; and so the mother of God, since the Divinity and humanity of Christ are inseparable.</p>
+            <p>And I freely confesse, that shee is in glory both above Angels and men; her owne Sonne (that is both God and man) onely excepted.</p>
+            <p>But I dare not mock her, and blaspheme against God, calling her not <hi>Diva,</hi> but <hi>Dea,</hi> and praying her to command and controll her Sonne, who is her <hi>God</hi> and her <hi>Saviour;</hi> nor yet can I thinke, that she hath no other thing to do in Heaven, then to heare every idle mans suite, and busie her selfe in their errands; whiles requesting, whiles com<g ref="char:EOLhyphen"/>manding her Sonne; whiles comming downe to kisse and make love with <hi>Priests,</hi> and whiles disputing and brawling with <hi>Divells.</hi>
+            </p>
+            <p>In Heven she is in eternall glory and joy, never to be interrupted with any worldly businesse; and there I leave her with her blessed <hi>Son</hi> our <hi>Saviour</hi> and hers, in eternall felicity.</p>
+            <p>As for Prayer to <hi>Saints;</hi> Christ (I am sure) hath commanded us to come all to Him, that are loaden with sinnes, and Hee will relieve us: and Saint <hi>Paul</hi> hath forbidden us to worship Angels; or, to use any such voluntary worship, that hath a shew of humility in that it spareth not the flesh.</p>
+            <p>But what warrant we have to have recourse to these <hi>Pii Penates,</hi> or <hi>Tutelares,</hi> these Courtiers of God, I know not, I remit that to the Philosophicall rhetorick Divines.</p>
+            <p>It satisfieth me to pray to God through Christ, as I am comman<g ref="char:EOLhyphen"/>ded,
+<pb facs="tcp:197322:3"/> which I am sure must be the safest way; and I am sure the safest way is the best way in point of salvation: but if the Romish Church have coyned new Articles of faith, never heard of in the first five hundred yeers after Christ, I hope I shall never be condemned for an heretick, for not being a novellist.</p>
+            <p>Such are the private <hi>Masses,</hi> where the <hi>Priest</hi> playeth the part both of the Priest and of the People; and such are the <hi>imputations</hi> of the one halfe of the Sacrament from the people; The <hi>Transubstan<g ref="char:EOLhyphen"/>tiation, Election</hi> for <hi>Adoration,</hi> and <hi>Circumportation</hi> in procession of the Sacraments, the work of supererrogation, rightly named <hi>Thesau<g ref="char:EOLhyphen"/>rus Ecclesiae,</hi> the <hi>baptising</hi> of <hi>Bells,</hi> and a thousand other tricks. But above all, the worshipping of <hi>Images.</hi>
+            </p>
+            <p>If my faith be weake in these, I confesse, I had rather believe too little then too much. And yet, since I believe as much as the <hi>Scriptures</hi> doe warrant, the <hi>Creeds</hi> doe perswade, and the ancient <hi>Councels</hi> de<g ref="char:EOLhyphen"/>creed, I may well be a Schismatick from <hi>Rome,</hi> but I am sure I am no Hereticke.</p>
+            <p>For reliques of Saints; if I had any such that I were assured were members of their bodies, I would honorably bury them, and not give them the reward of condemned mens members, which are onely or<g ref="char:EOLhyphen"/>dained to be deprived of buriall. But for worshipping either them or Images, I must account it damnable Idolatry.</p>
+            <p>I am no <hi>Iconomacus;</hi> I quarrell not the making of Images, either for publike decoration, or for mens private uses: but that they should be worshipped, be prayed to, or any holinesse attributed unto them, was never knowne of the ancients; and the Scriptures are so direct<g ref="char:EOLhyphen"/>ly, vehemently and punctually against it, as I wonder what braine of man, or suggestion of Satan, durst offer it to Christians, and all must be salved with nice Philosophicall distinctions: As <hi>Idolum nihil est,</hi> and they worshipped (forsooth) the Images of things in being, and the Images of the true God. But the Scripture forbiddeth to worship the Image of any thing that God created.</p>
+            <p>It was not a <hi>Nihil</hi> then that God forbade onely to be wor<g ref="char:EOLhyphen"/>shipped, neither was the brazen Serpent, nor the body of <hi>Moses</hi> a <hi>nihil,</hi> and yet the one was destroyed, and the other hidden for eschew<g ref="char:EOLhyphen"/>ing of Idolatry.</p>
+            <p>Yea, the Image of God himselfe, is not only expresly forbidden to be worshipped, but even to be made. The reason is given: That no eye ever saw God; and how can wee paint his face, when <hi>Moses</hi>
+               <pb facs="tcp:197322:3"/> (the man that ever was most familiar with God) never saw but his back parts? Surely, since He cannot be drawne to the <hi>vive,</hi> it is a thanklesse labour to ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it with a false representation, which no Prince, nor scarce any other man will be content with in their owne pictures. Let them therefore that maintaine this doctrine, answer it to Christ at the latter day, when he shall accuse them of Idolatry; and then I doubt if he will be payed with such nice <hi>sophisticall</hi> distinctions.</p>
+            <p>But Christs Crosse must have a particular priviledge (say they) and be worshipped <hi>ratione contactu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> But first we must know what kind of touching Christs body drew a vertue from it; whether every touching or only touching by faith: that every touching of his body drew not vertue from it, is more then manifest; when the woman in the bloody flux touched him, she was healed for her faith: but <hi>Peter</hi> then told him, that a crowd and throng of many people then touched him, and yet none of them received any benefit or vertue from him.</p>
+            <p>
+               <hi>Iudas</hi> touched him many and many a time, besides his last kisse: so did the villaines that buffeted and crucified him; and yet I may safe<g ref="char:EOLhyphen"/>ly pronounce them accursed▪ that would bestow onely worship upon their reliques; yea, we cannot deny, but the Land of <hi>Canaan</hi> it selfe (whereupon our Lord did daily tread) is so visibly accursed, being governed by faithlesse <hi>Turkes,</hi> full of innumerable sorts of hereticall Christians, and the very fertility thereof so far degenerated into a pitifull sterility, as he must be accursed that accounteth it blessed.</p>
+            <p>Nay, when a certaine woman blessed the belly that bare Christ, and the breasts that gave him sucke; nay, rather (saith he) <hi>Blessed are those that heare the Word of God and keepe it.</hi> Except then they could first prove that Christ had resolved to blesse that tree of the crosse whereupon he was nailed, they can never prove that his touching it could give it any vertue. And put the case it had a vertue of doing miracles, as <hi>Peters</hi> shadow had, yet doth it not follow that it is law<g ref="char:EOLhyphen"/>full to worship it, which <hi>Peter</hi> would never accept of. Surely, the Prophets that in so many places curse those that worship Images, that have eyes and see not; that have eares and heare not, would much more have cursed them that worship a piece of a sticke that hath not so much as any resemblance of eyes or eares.</p>
+            <p>As for <hi>Purgatorie,</hi> and all the trash depending thereupon, it is not worth the talking of; <hi>Bellarmine</hi> cannot find any ground for it in all the Scriptures, only I would pray him to tell me, if that faire greene meddow that is in <hi>Purgatorie</hi> have a brook running thorow it, that
+<pb facs="tcp:197322:4"/> in case I come there, I may have hawking upon it.</p>
+            <p>But as for me, I am sure there is an Heaven and an Hell, <hi>Praemium</hi> and <hi>Poe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> for the Elect and Reprobate: How many other roomes there be, I am not of Gods Councell. <hi>Multae sunt mansione<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in domo patris mei;</hi> saith Christ, who is the true Purgatorie for our sins: but how many chambers and antichambers the Devill hath, they can best tell that go to him.</p>
+            <p>But in case there were more places for soules to go to, than wee know of, yet let us content us with that which in his Word hee hath revealed unto us, and not enquire further into his secrets. Heaven and Hell are there revealed to be the eternall home of all mankind. Let us endevour to win the one, and escape the other, and there is an end.</p>
+            <p>Now in all this discourse have I left out the maine article of the Romish Faith, and that is the head of the Church, or <hi>Peters</hi> Prima<g ref="char:EOLhyphen"/>cie; for who denieth this, denieth <hi>Fidem Catholicam,</hi> saith <hi>Bellarmine.</hi>
+            </p>
+            <p>That Bishops ought to be in the Church, I doe maintaine it as an Apostolike Institution, and so the ordinance of God, contrarie to the Puritans, and likewise to <hi>Bellarmine,</hi> who denies that Bishops have their jurisdiction immediately from God (but it is no wonder hee takes the Puritans part, since Jesuites are nothing but <hi>Puritan-Pa<g ref="char:EOLhyphen"/>pists</hi>) and as I ever maintained the state of Bishops, and the <hi>Ecclesia<g ref="char:EOLhyphen"/>sticall Hierarchie</hi> for orders sake; so was I ever an enemie to the confused <hi>Anarchy,</hi> or paritie of the Puritans, as well appeareth in my <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Heaven</hi> is governed by order, and all the good Angels there; nay, Hell it selfe could not subsit without some order; and the verie Devils are divided into Legions, and have their Chiefetaines. How can any Societie then upon earth subsist without order and degrees? And therefore I cannot enough wonder, with what brazen face any could say, That I was a Puritan in Scotland, and an enemy to Protestants: I that was persecuted by <hi>Puritans</hi> there, not from my birth only, but ever since foure moneths before my birth: I that in the yeare of God 84, erected Bishops, and de<g ref="char:EOLhyphen"/>pressed all their popular paritie: I that in the said book to my son, do speak more bitterly of them nor of the Papists; having in my se<g ref="char:EOLhyphen"/>cond Edition thereof affixed a long Apologetick Preface, only in <hi>Odium Puritanorum:</hi> And I that for the space of six yeares before my comming into England, labouring nothing so much, as to de<g ref="char:EOLhyphen"/>presse their paritie, and re-erect Bishops againe. Nay, if the daily
+<pb facs="tcp:197322:4"/> Commentaries of my life, and actions in <hi>Scotland,</hi> were written (as <hi>Iulius Caesars</hi> were) there would scarce a moneth passe in all my life, since my entring into my thirteenth yeere of my age, wherein some accident or other would not convince the lyer in this point.</p>
+            <p>And surely I give a faire commendation to the Puritanes, where I affirme, that I have found greater honesty with the high-land and border-thieves, the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with that sort of people.</p>
+            <p>Of Bishops and Church Hierarchy, I very well allow (as I said before) and likewise of ranks and degrees amongst Bishops. Pa<g ref="char:EOLhyphen"/>triarchs I know were in the time of the Primative Church, and like<g ref="char:EOLhyphen"/>wise reverence that institution for order sake; and amongst them was a contention for the first place: and for my selfe, (if that were yet the question) I would with all my heart give my consent, that the Bishop of <hi>Rome</hi> should have the first seate; I being a Westerne King, would goe with the Patriarches of the West: and for his tem<g ref="char:EOLhyphen"/>porall principality over the <hi>Seignory</hi> of <hi>Rome,</hi> I doe not quarrell it neither; let him in God his Name be <hi>Primu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Episcopus, inter omnes Episcopos,</hi> and <hi>Princeps Episcoporuin,</hi> so it be no otherwayes but as <hi>Peter</hi> was <hi>Princeps Apostolorum.</hi>
+            </p>
+            <p>But as I well allow of the Hierarchy of the Church for distinction of orders (for so I understand it) so I utterly deny that there is an earthly Monarchy thereof, whose word must be a law, and who can<g ref="char:EOLhyphen"/>not erre in his sentence, by an infalibillity of spirit, because earthly kingdomes must have earthly Monarches, it doth not follow, that the Church must have a visible Monarch too; for the world hath not one earthly temporall <hi>Monarch. Christ</hi> is his Churches <hi>Monarch,</hi> and the <hi>Holy Ghost</hi> his Deputy, <hi>Reges Generum dominantur eorum, vos autem non sic:</hi> Christ did not promise before his ascention, to leave <hi>Peter</hi> with them, to direct and instruct them in all things; but hee promi<g ref="char:EOLhyphen"/>sed to send the <hi>Holy Ghost</hi> to them for that end.</p>
+            <p>And as for those two places, whereby <hi>Bellarmine</hi> maketh the <hi>Pope</hi> to triumph over Kings, I meane, <hi>Pasc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> oves,</hi> and <hi>tibi dabo claves,</hi> the <hi>Cardinall</hi> knows well enough that the same words of <hi>tibi dabo,</hi> are in another place spoken by Christ in the plurall number: And he like<g ref="char:EOLhyphen"/>wise knows what reasons the ancients do give, why Christ bade <hi>Peter Pascere oves;</hi> and also what a cloud of witnesses there is, both of an<g ref="char:EOLhyphen"/>cients, and even of late Popish Writers; yea, divers <hi>Cardinalls,</hi> that do all agree, that both these speeches used to <hi>Peter,</hi> were meant to all the Apostles, represented in his person; otherwise, how could <hi>Paul</hi>
+               <pb facs="tcp:197322:5"/> direct the Church of <hi>Corinth</hi> to excommunicate the incestuous per<g ref="char:EOLhyphen"/>son, <hi>Cum spiritu suo,</hi> whereas he should then have said, <hi>cum spiritu Petri,</hi> and how could all the Apostles have otherwise used all their censures only in Christs name, and never a word of his Vicar?</p>
+            <p>
+               <hi>Peter</hi> we read, did in all the Apostles meeting, sit amongst them as one of their number; and when chosen men were sent to <hi>Antiochia</hi> from that great Apostolike Councell at <hi>Ierusalem,</hi> the Text saith▪ <hi>It seemed good to the Apostles and Elders, with the whole Church, to send chosen men,</hi> but no mention is made of the head thereof; and so in their letters, no mention is made of <hi>Peter,</hi> but onely of the Apostles, Elders, and Brethren: and it is a wonder why <hi>Paul</hi> rebuked the Church of <hi>Corinth</hi> for making exception of persons, because some followed <hi>Paul,</hi> some <hi>Apollos,</hi> some <hi>Cephas;</hi> if <hi>Peter</hi> was their visible head: for then those that follow not <hi>Peter</hi> or <hi>Cephas,</hi> renounce the Catholike faith. But it appeareth well that <hi>Paul</hi> knew little of our new doctrine, since he handled <hi>Peter,</hi> so rudely, as he not onely com<g ref="char:EOLhyphen"/>pareth, but preferreth himselfe unto him: But our Cardinall proves <hi>Peters</hi> superiority by <hi>Pauls</hi> going to visit him. Indeed, <hi>Paul</hi> saith, he went to <hi>Ie<g ref="char:EOLhyphen"/>rusalem</hi> to visit <hi>Peter,</hi> and conferre with him, but he should have added, and to kisse his feet.</p>
+            <p>To conclude then; The truth is, that <hi>Peter</hi> was both neare, and in the time of Christs calling him, one of the first of the Apostles. In order the principall of the first twelve, and one of the three whom Christ for order sake preferred to all the rest, and no farther did the Bishop of <hi>Rome</hi> claime for three hundred yeeres after Christ: Subject they were to the Generall Councels, and even but of late did the Councell of <hi>Constantine</hi> depose three Popes, and set up the fourth; and untill <hi>Phocas</hi> dayes (that murthered his Master) were they subject to Emperors.</p>
+            <p>But how they are now come to be <hi>Christs Vicars</hi> nay, gods on earth, <hi>triple crowned▪ kings of heaven, earth and hell; judges of all the world, and none to judge them. Heads of the Faith, absolute deciders of all controversies,</hi> by the infallabillity of their spirit, having all power, both spirituall and tem<g ref="char:EOLhyphen"/>porall in their hands; the <hi>High Bishops, Monarches</hi> of the whole <hi>Earth, Superiours</hi> to all <hi>Emperours</hi> and <hi>Kings;</hi> yea, <hi>supreme vice-Gods,</hi> who, whether they will or not, cannot erre; how they are come, I say, to this top of greatnesse I know not: but s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re I am, wee that are <hi>Kings</hi> have greatest need to looke unto it.</p>
+            <p>As for me, <hi>Paul</hi> and <hi>Peter</hi> I <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ow, but these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en I know not; and yet to doubt of this, is to deny the <hi>Catholike faith;</hi> nay, the world it selfe must be turned upside downe, and the order of nature inverted (making the left hand to have place before the right, and the last named to be the first in ho<g ref="char:EOLhyphen"/>nour) that this Primacy may be mentioned.</p>
+            <p>Thus have I now made a tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e confession of my Faith.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
